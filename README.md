@@ -1,5 +1,5 @@
 
-## Desvendando Atletas!
+## Desvendando Atletas - Imersão Dev com Google Gemini
 
 ### **TL;DR:** Uma busca rápida e fácil por atletas brasileiros! 
 
